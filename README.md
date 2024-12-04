@@ -1,1 +1,1 @@
-hello GO# GoPlayground
+hello GO

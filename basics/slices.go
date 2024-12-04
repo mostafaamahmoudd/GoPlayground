@@ -23,9 +23,9 @@ func slices() {
 
 	s[0] = "Mustafa"
 	s[1] = "Mahmoud"
-	s[2] = "Nour"
+	s[2] = "Msahel"
 
-	s = append(s, "Azza", "Mahmoud")
+	s = append(s, "Mustafa", "Mahmoud")
 	fmt.Println(s)
 
 	c := make([]string, len(s))
