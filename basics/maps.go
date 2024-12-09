@@ -5,7 +5,7 @@ import (
 	"maps"
 )
 
-func main() {
+func maps() {
 	ages := make(map[string]int)
 	ages["Mustafa"] = 25
 	ages["Mahmoud"] = 26
